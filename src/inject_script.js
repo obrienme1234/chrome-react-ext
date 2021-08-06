@@ -1,3 +1,4 @@
+
 const foreground_entry_point = document.createElement('div');
 let reactJS_script = document.createElement('script');
 
